@@ -5,9 +5,7 @@
   "description": "The greatest company ever created",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -19,7 +17,5 @@
   "bugs": {
     "url": "https://github.com/luisFebro/keiko-corp/issues"
   },
-  "dependencies": {
-    "gh-pages": "^2.2.0"
-  }
+  "dependencies": {}
 }
